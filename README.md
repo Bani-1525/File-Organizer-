@@ -27,11 +27,11 @@ This project showcases skills in **Python scripting, file handling, automation, 
 
 ### 📝 Before Running
 
-![Before](./screenshots/before.png)
+![Before](./Pictures/Before.png)
 
 ### 📂 After Running
 
-![After](./screenshots/after.png)
+![After](./Pictures/After.png)
 
 ---
 
