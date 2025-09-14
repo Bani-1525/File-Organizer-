@@ -41,8 +41,5 @@ This project showcases skills in **Python scripting, file handling, automation, 
    ```bash
    git clone https://github.com/Bani-1525/File-Organizer-.git
    cd file-organizer
+   ``
    ```
-
-```
-
-```
